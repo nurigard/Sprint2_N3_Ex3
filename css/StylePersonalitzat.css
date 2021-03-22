@@ -1,0 +1,162 @@
+.single-hero-items{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    width: 100vw;
+}
+
+.nav-item .nav-depart .depart-btn .depart-hover li.active a {
+    color:dimgray
+}
+
+.nav-item .nav-depart .depart-btn .depart-hover li a:hover {
+	color:dimgray;
+}
+
+.nav-item .nav-menu li.active a {
+	background:dimgray;
+}
+
+.nav-item .nav-menu li:hover>a {
+	background:dimgray;
+}
+
+.nav-item .nav-menu li .dropdown li:hover>a {
+	background: transparent;
+	color:dimgray;
+}
+
+.primary-btn {
+	background:dimgray;
+}
+
+.inner-header .nav-right li.heart-icon a span {
+	background:dimgray;
+}
+
+.inner-header .nav-right li.cart-icon a span {
+	background:dimgray;
+}
+
+.site-btn {
+	background:dimgray;
+	border: 1px solid dimgray;
+}
+
+a.slicknav_btn.slicknav_collapsed{
+	background-color: dimgray;
+}
+
+
+a.slicknav_btn.slicknav_open{
+	background-color:silver;
+}
+
+section.deal-of-week.set-bg.spad.container-fluid{
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-ms-background-size: cover;	
+	-o-background-size: cover;
+
+	background-position-x: center;
+	-moz-background-position-x: center;
+	-webkit-background-position-x: center;
+	-ms-background-position-x: center;
+	-o-background-position-x: center;
+
+	background-repeat: no-repeat;
+
+	margin-left: 0;
+	margin-right:0;
+}
+
+.section-title h2:before{
+	background:none;
+}
+
+
+section.deal-of-week.set-bg.spad.container-fluid a.primary-btn{
+	background-color: rgb(255, 255, 255);
+	color: black;
+	text-transform: none;
+	
+}
+
+div.banner-section.spad h4{
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+div.banner-section.spad{
+	padding: 60px 0px;
+}
+
+
+.footer-section{
+	margin-top: 1rem;
+}
+
+
+div.single-hero-items.set-bg{
+	background-size:contain;
+	-moz-background-size: contain;
+	-webkit-background-size: contain;
+	-ms-background-size: contain;	
+	-o-background-size: contain;
+
+	background-position: center;
+	-moz-background-position: center;
+	-webkit-background-position: center;
+	-ms-background-position: center;
+	-o-background-position: center;
+
+	background-repeat: no-repeat;
+
+	margin-left: 0;
+	margin-right:0;
+	margin-top: 0;
+
+	padding: 0px;
+}
+
+
+header{
+	display: flex;
+	-moz-display: flex;
+	-webkit-display: flex;
+	-ms-display: flex;
+	-o-display: flex;
+}
+
+ .header-section{
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+
+.single-hero-items h4{
+	margin-top: -20px;
+}
+
+
+.hero-items .single-hero-items{
+	display: block;
+}
+
+.hero-items .owl-carousel{
+	display: block;
+}
+
+.owl-carousel{
+	display: block;
+}
+
+.product-slider.owl-nav button[type=button] {
+	display: block;
+}
+
+.single-hero-items .set-bg{
+	display: block;
+}
